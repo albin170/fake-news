@@ -1,18 +1,7 @@
-# Python cache
 __pycache__/
-*.pyc
-
-# Virtual environment
+*.pkl
 venv/
 env/
-
-# Model files
-*.pkl
-
-# IDE files
 .vscode/
 .idea/
-
-# OS files
 .DS_Store
-Thumbs.db
